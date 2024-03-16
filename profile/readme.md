@@ -1,5 +1,5 @@
 <p align="center">
-<img src="docs/cms-health-project.png" width="300" alt="WebInsights logo">
+<img src="docs/cms-health-project.png" width="200" alt="WebInsights logo">
 </p>
 
 # CMS Health Project
