@@ -6,10 +6,23 @@
 
 This project aims to provide a standardized way for content management systems and services to expose their health status, making it easier for monitoring tools, load balancers, and other infrastructure components to understand and react to the health of these services.
 
-## Project Members
+## Project Members 2025
+### Lead
+* [Oliver Bartsch](https://github.com/o-ba)
+### Members 
+* [Remkus de Vries](https://github.com/remkus)
+* [Timo Feuerstein](https://github.com/tfeuerst)
+* [Thomas Stauer](https://github.com/tstauer)
+* [Benni Mack](https://github.com/bmack)
+* [Bernd Stellwag](https://github.com/burned42)
+* [Patrick Koppe](https://github.com/Patrick-Koppe)
+* [Ephraim Härer](https://github.com/Kephson)
+
+
+## Project Members 2024
 ### Lead
 * Nils Langner - Founder “startwind”
-### Members
+### Members 
 * [Justin Joe Kostka](https://github.com/jujoko7CF)
 * [Marc Nilius](https://github.com/zottto)
 * [Mike WP Bullet](https://github.com/wpbullet)
