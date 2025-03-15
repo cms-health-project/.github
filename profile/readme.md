@@ -14,6 +14,7 @@ This project aims to provide a standardized way for content management systems a
 * [Timo Feuerstein](https://github.com/tfeuerst)
 * [Thomas Stauer](https://github.com/tstauer)
 * [Benni Mack](https://github.com/bmack)
+* [Stefan Buerk](https://github.com/sbuerk)
 * [Bernd Stellwag](https://github.com/burned42)
 * [Patrick Koppe](https://github.com/Patrick-Koppe)
 * [Ephraim Härer](https://github.com/Kephson)
