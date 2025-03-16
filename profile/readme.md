@@ -18,6 +18,7 @@ This project aims to provide a standardized way for content management systems a
 * [Bernd Stellwag](https://github.com/burned42)
 * [Patrick Koppe](https://github.com/Patrick-Koppe)
 * [Ephraim Härer](https://github.com/Kephson)
+* [Karina Hannachi](https://github.com/Devykun)
 
 
 ## Project Members 2024
